@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋 I'm Polly
 
-<!--
-**Polly2014/Polly2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm passionate about AI development and full-stack engineering.
 
-Here are some ideas to get you started:
+## 🌐 My Blog
+Check out my technical blog for in-depth articles about AI, development practices, and project insights:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[📖 Visit My Blog](https://polly2014.github.io/)**
+
+## 🚀 What I'm Working On
+- AI-powered applications
+- Full-stack development
+- Educational technology
+
+## 📫 How to reach me
+- Blog: [polly2014.github.io](https://polly2014.github.io/)
+- GitHub: You're here! 😄
+
+---
+*Building the future with AI, one project at a time.*
